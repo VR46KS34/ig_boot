@@ -1,0 +1,30 @@
+body {
+    margin: 0%;
+    padding: 0%;
+}
+
+.mb8{
+    margin-bottom: 16px;
+}
+
+.par{
+    padding: 0px;
+}
+
+.headphoto{
+    display: inline-flex;
+}
+
+.segundoTitulos {
+    align-self: flex-end;
+}
+
+.cameraicon {
+    align-content: flex-start;
+    padding: 5px;
+    margin-left: 10px;
+}
+
+.sinborde {
+    border-color: white !important;
+}
